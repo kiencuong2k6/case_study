@@ -1,0 +1,7 @@
+Game: Flappy Bird (1 người)
+Chức năng:
+- Sẽ có nút play để bắt đầu trò chơi.
+- Có hình ảnh âm thanh.
+- Tính điểm khi đi qua chướng ngại vật
+- Chạm vào chướng ngại vật sẽ kết thúc trò chơi
+- Lưu thông số kết quả của người chơi sau khi kết thúc màn chơi
